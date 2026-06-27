@@ -1,4 +1,5 @@
-python-telegram-bot==20.7
-googletrans==4.0.0rc1
-PyPDF2==3.0.1
-reportlab==4.0.8
+python-telegram-bot
+googletrans==3.1.0a0
+PyPDF2
+reportlab
+httpx==0.13.3
